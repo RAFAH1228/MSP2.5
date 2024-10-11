@@ -1,64 +1,364 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1728678096549 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1728682296725 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728678099629 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728682299799 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728678103163 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728682302887 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728678106240 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728682305976 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728678109322 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728682309044 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728678112402 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728682312125 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728678115479 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728682315201 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728678118549 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728682318275 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728678121630 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728682321371 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728678124715 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728682324497 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728678127782 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728682327573 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728678130852 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728682330642 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728678133922 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728682334999 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728682338083 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728682341152 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728682344242 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728682347569 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728682350653 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728682353736 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728682356804 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728682359882 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728682363904 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728682366984 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728682370711 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728682373971 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728682377048 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728682380118 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728682384271 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728682387346 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728682390423 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728682393483 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728682396579 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728682399655 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728682402719 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728682405809 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728682408894 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728682411961 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728682415042 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728682419060 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728682422126 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728682425205 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728682428272 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728682431351 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728682434418 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728682437492 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728682440565 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728682443642 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728682446727 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728682449806 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728682452878 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728682455941 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728682459010 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728682462090 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728682465164 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728682468235 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728682471300 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728682474368 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728682477444 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728682480519 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728682483583 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728682487385 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728682490459 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728682493526 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728682496631 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728682499713 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728682502788 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728682505862 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728682508932 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728682512012 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728682517182 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728682520246 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728682523316 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+pages-terrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728682526385 tunnel running, 1 tunnels registered
 
 
 TUNNELS
